@@ -1,7 +1,6 @@
 # 🛒 E-Commerce Storefront (React + Vite)
 
-A colorful, modern, and responsive **e-commerce storefront** built with React, Vite, and Framer Motion.  
-Inspired by Amazon/Flipkart — includes product search, filters, sorting, cart management, and checkout.  
+A colorful, modern, and responsive **e-commerce storefront** built with React, Vite, and Framer Motion. 
 
 ---
 
@@ -11,7 +10,6 @@ Inspired by Amazon/Flipkart — includes product search, filters, sorting, cart 
 - 🔍 **Search & Filters** — search products by name/description, filter by category  
 - ↕️ **Sorting** — sort by price (asc/desc), rating, or relevance  
 - 🛍 **Cart System** — add/remove items, increase/decrease quantity  
-- 💾 **LocalStorage Persistence** — cart items are saved even after refresh  
 - ✅ **Checkout Flow** — checkout clears the cart & shows a success notification  
 - 🔔 **Toasts** — elegant notifications with `react-toastify`  
 
@@ -29,13 +27,13 @@ Inspired by Amazon/Flipkart — includes product search, filters, sorting, cart 
 
 ## 📸 Screenshots
 ### Home Page
-![Home](screenshots/home.png)
+![Home](screenshots/1.png)
 
 ### Product Modal
-![Modal](screenshots/modal.png)
+![Modal](screenshots/3.png)
 
 ### Cart
-![Cart](screenshots/cart.png)
+![Cart](screenshots/4.png)
 
 ---
 
