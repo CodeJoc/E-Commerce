@@ -27,13 +27,13 @@ A colorful, modern, and responsive **e-commerce storefront** built with React, V
 
 ## 📸 Screenshots
 ### Home Page
-![Home](screenshots/1.png)
+![Home](src/screenshots/1.png)
 
 ### Product Modal
-![Modal](screenshots/3.png)
+![Modal](src/screenshots/3.png)
 
 ### Cart
-![Cart](screenshots/4.png)
+![Cart](src/screenshots/4.png)
 
 ---
 
