@@ -1,12 +1,47 @@
-# React + Vite
+# 🛒 E-Commerce Storefront (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A colorful, modern, and responsive **e-commerce storefront** built with React, Vite, and Framer Motion.  
+Inspired by Amazon/Flipkart — includes product search, filters, sorting, cart management, and checkout.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- 📱 **Responsive UI** — works on mobile, tablet, and desktop  
+- 🎨 **Modern Design** — bold colors, smooth animations (Framer Motion)  
+- 🔍 **Search & Filters** — search products by name/description, filter by category  
+- ↕️ **Sorting** — sort by price (asc/desc), rating, or relevance  
+- 🛍 **Cart System** — add/remove items, increase/decrease quantity  
+- 💾 **LocalStorage Persistence** — cart items are saved even after refresh  
+- ✅ **Checkout Flow** — checkout clears the cart & shows a success notification  
+- 🔔 **Toasts** — elegant notifications with `react-toastify`  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+- **React 18** (frontend library)  
+- **Vite** (fast build tool)  
+- **Framer Motion** (animations)  
+- **React Toastify** (notifications)  
+- **React Icons** (icons)  
+- **CSS3** (custom styling)  
+
+---
+
+## 📸 Screenshots
+### Home Page
+![Home](screenshots/home.png)
+
+### Product Modal
+![Modal](screenshots/modal.png)
+
+### Cart
+![Cart](screenshots/cart.png)
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ecommerce-storefront.git
+   cd ecommerce-storefront
